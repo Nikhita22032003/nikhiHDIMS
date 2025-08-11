@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812336329061",
+    "project_id": "hdims-b1f86",
+    "storage_bucket": "hdims-b1f86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812336329061:android:7655325bc4c02a5b26f18c",
+        "android_client_info": {
+          "package_name": "com.example.hdims"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehthaCJCIySu7tMmH3JdZjeVBt0y8gd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812336329061:android:61b547d63fc4f49526f18c",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehthaCJCIySu7tMmH3JdZjeVBt0y8gd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
